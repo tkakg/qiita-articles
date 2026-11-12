@@ -1,5 +1,5 @@
 ---
-title: "GitHubにPushするだけでQiitaへ自動投稿する方法【Qiita CLI × GitHub Actions】"
+title: GitHubにPushするだけでQiitaへ自動投稿する方法【Qiita CLI × GitHub Actions】
 tags:
   - QiitaCLI
   - GitHub
@@ -7,7 +7,7 @@ tags:
   - CI
   - Markdown
 private: false
-updated_at: '2026-11-12T21:39:41+09:00'
+updated_at: '2026-11-12T22:05:05+09:00'
 id: 5f0a935c7c2a6e856151
 organization_url_name: null
 slide: false
